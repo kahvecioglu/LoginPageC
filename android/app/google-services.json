@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935377709175",
+    "project_id": "login-chatgpt-649fd",
+    "storage_bucket": "login-chatgpt-649fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935377709175:android:7cbc4ef0735e928f6a3e72",
+        "android_client_info": {
+          "package_name": "com.example.login_chatgpt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHtf2Hdft9sx7UoGXmtLTu82e5ODxb1OU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
